@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Merriweather", serif;
+}
+.section-title {
+  font-family: "Do Hyeon", sans-serif;
+}
+/*nav-bar*/
+#nav-bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.navbar {
+  padding: 0 !important;
+}
+.nav-title {
+  font-size: 40px;
+  color: #0d76fd;
+  font-family: "Lovers Quarrel", cursive;
+}
+.navbar-nav li {
+  padding: 0 10px;
+}
+.navbar-nav li a {
+  color: #fff !important;
+  font-weight: 600;
+}
+.navbar-toggler {
+  border: none !important;
+  color: #fff !important;
+}
+/*banner*/
+#banner {
+  background-color: #212529;
+  color: #fff;
+  padding-top: 1%;
+}
+.banner-title {
+  font-family: "Merriweather", serif;
+}
+.banner-intro {
+  font-family: "Anton", sans-serif;
+  font-size: 60px;
+}
+/*About*/
+#about {
+  background-color: #212529;
+  color: #fff;
+  padding-top: 7%;
+}
+/*Project*/
+#project {
+  background-color: #212529;
+  color: #fff;
+  padding-top: 7%;
+}
+/*certificate*/
+#certificate {
+  background-color: #212529;
+  color: #fff;
+  padding-top: 7%;
+}
